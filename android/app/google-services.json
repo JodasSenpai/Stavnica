@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "63384799682",
+    "project_id": "stavnica-76806",
+    "storage_bucket": "stavnica-76806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63384799682:android:cae9b3a160b446c73dae5b",
+        "android_client_info": {
+          "package_name": "com.example.stavnica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63384799682-gkcvlve104tl0c83f4ucqfto7kfnpb91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixujxKUMceF_-k4G92kxkgUgXEi7v7io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63384799682-gkcvlve104tl0c83f4ucqfto7kfnpb91.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63384799682-cj0sb5aqsdqaj7kmmqo7eros2g3vrm6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stavnica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
